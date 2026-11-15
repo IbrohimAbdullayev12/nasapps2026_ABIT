@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\Astria.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\Astria.dir/objects.a @CMakeFiles\Astria.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\Astria.dir/objects.a -Wl,--no-whole-archive -o Astria.exe -Wl,--out-implib,libAstria.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Astria.dir\linkLibs.rsp

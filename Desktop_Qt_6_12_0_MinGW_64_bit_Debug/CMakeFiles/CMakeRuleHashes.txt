@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+950732cebb659dd9e7b123efbcdd641e Astria_autogen/timestamp
+f42879740f92249acba9502f943c919b CMakeFiles/Astria_autogen

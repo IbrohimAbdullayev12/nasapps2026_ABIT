@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/Nasa HB/build/CMakeFiles/Astria.dir
+C:/Users/user/Desktop/Nasa HB/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/Nasa HB/build/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/Nasa HB/build/CMakeFiles/Astria_autogen_timestamp_deps.dir
+C:/Users/user/Desktop/Nasa HB/build/CMakeFiles/Astria_autogen.dir
